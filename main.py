@@ -9,7 +9,6 @@ iteration = 5
 val_x = []
 val_y = []
 
-
 a = np.array([[-1, 0, 1], [0, 1, 1]])  # t[0:1]
 b = np.array([[1, 0, 1], [1, 1, 1]])  # t[2:3]
 t = np.array([1, 1, -1, -1])
